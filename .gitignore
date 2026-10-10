@@ -1,0 +1,6 @@
+cache/
+__pycache__/
+pet.log
+pet_state.txt
+*.wav
+*.xnb
